@@ -9,7 +9,7 @@ services:
     ports:
       - 6901
     environment:
-      VNC_PW: 'hello1234'
+      VNC_PW: 'hello1234567'
 
     deploy:
       replicas: 1
